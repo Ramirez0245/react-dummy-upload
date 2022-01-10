@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container_flexbox00 {
+    background-color: #cacaca;
+    padding: 10px;
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: wrap;
+    border-style: dashed;
+}
+
+.item {
+    background-color: #ff0037;
+    color: #fff;
+    margin: 50px;
+    font-size: 35px;
+    padding: 20px;
+    margin: 10px;
+    width: 25rem;
+    height: 25rem;
+}
+
+
+
+.itemnm {
+    background-color: #5900ff;
+    color: #fff;
+    margin: 50px;
+    font-size: 35px;
+    padding: 20px;
+    margin: 10px;
+    width: 25rem;
+    height: 25rem;
+}
+.items-1 {
+    width: 100%;
+}
+
+.aDiv {
+    border-style: dashed;
+    height: 100px;
+}

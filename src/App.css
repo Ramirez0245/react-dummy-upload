@@ -1,0 +1,19 @@
+
+/*THIS IS USED SO THAT THE APP CONTAINS THE WHOLE SCREEN */
+.App {
+  width: 100vw;
+  height: 100vh;
+  border-style: dashed;
+  border-color: hotpink;
+}
+/*THIS IS USED SO THERE IS NO WERID SIDE ISSUES*/
+body {
+  margin: 0;
+  padding: 0;
+  border-style: groove;
+  border-color: indigo;
+}
+
+button:hover {
+  cursor: pointer;
+}
